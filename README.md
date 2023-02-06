@@ -1,12 +1,14 @@
 <h1 align="center">Projet-01-OC-Site_Booki-</h1>
 
+<div align="center"><img height="200" src="https://user.oc-static.com/upload/2022/06/20/16557256333819_FR_1155_P3_Banner-Booki.png"></div>
+
 ## 📝 Sommaires
 
-- [Pprésentation du projet](#présentation)
+- [Présentation du projet](#présentation)
 - [Aperçu du projet](#projet)
 - [Spécification du projet](#specification)
 
-## 💭 Petit 0mot de présentation <a name = "présentation"></a>
+## 💭 Petit mot de présentation <a name = "présentation"></a>
 
 Pour débuter ma formation, dans le cadre de ma reconversion, j'ai dû convertir une maquette en une page web en utilisant uniquement HTML et CSS.
 
@@ -64,5 +66,3 @@ Aperçu :
   - Le code doit être valide aux validateurs W3C HTML et CSS.
   - La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur ces deux navigateurs.
   - Il n’est pas nécessaire de versionner le code.
-
----
