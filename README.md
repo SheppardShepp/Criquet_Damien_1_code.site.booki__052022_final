@@ -14,7 +14,7 @@ Pour débuter ma formation, dans le cadre de ma reconversion, j'ai dû convertir
 
 ---
 
-## Scénaro du projet
+## :movie_camera: Scénaro du projet
 
 J'ai trouvé mon premier stage en tant que développeur web chez Booki, une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
 Avant de valider définitivement le design, l’entreprise a décidé de réaliser un prototype. Je suis chargé de créer ce prototype en intégrant la maquette en HTML et CSS.
@@ -23,7 +23,7 @@ Avant de valider définitivement le design, l’entreprise a décidé de réalis
 
 ### Langages utilisés
 
-- <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg"> HTML/CSS
+- <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png"> HTML/CSS
 
 ---
 
@@ -33,7 +33,7 @@ Avant de valider définitivement le design, l’entreprise a décidé de réalis
 
 Objectif : Transformer une maquette en HTML & CSS.
 
-Utilisation : <img height="30" src="https://img2.freepng.fr/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg">
+Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
 
 Aperçu :
 
@@ -41,7 +41,7 @@ Aperçu :
 
 ---
 
-## Les Spécification du projets <a name = "specification"></a>
+## :gear: Les Spécification du projets <a name = "specification"></a>
 
 - Spécifications fonctionnelles :
 
